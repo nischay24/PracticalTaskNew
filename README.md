@@ -1,4 +1,4 @@
-## Pre-requites
+## Pre-requisites
 Python and Selenium WebDriver must be installed to run this test
 
 ## Running Tests
